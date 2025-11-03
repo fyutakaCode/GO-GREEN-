@@ -24,7 +24,7 @@ Website ini dirancang dengan gaya **modern, elegan, dan natural** menggunakan:
   - *Poppins* (isi, sans-serif – modern & bersih)
 - **Efek hover glowing**, **bayangan lembut (soft shadow)**, dan **tata letak responsif** untuk semua ukuran layar.
 
-Tema warna dan tipografi dipilih agar menggambarkan semangat **pelestarian lingkungan dan keseimbangan alam** 🌱
+Tema warna dan tipografi dipilih agar menggambarkan semangat **pelestarian lingkungan dan keseimbangan alam** 
 
 ---
 
@@ -64,4 +64,4 @@ Website ini dikembangkan dengan bantuan **ChatGPT (model GPT-5)**
 
 ---
 
-Terima kasih telah mendukung gerakan hijau untuk bumi yang lebih baik 🌏✨
+Terus mendukung gerakan hijau untuk bumi yang lebih baik 
