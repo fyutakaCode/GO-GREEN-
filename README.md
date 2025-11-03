@@ -1,22 +1,21 @@
-# 🌿 Plant 100,000 Mangroves — Go Green Website
+# Plant 100,000 Mangroves — Go Green Website
 
 Website ini merupakan proyek kampanye lingkungan bertema **“Go Green”** dengan fokus pada pelestarian ekosistem mangrove.  
 Seluruh konten bertujuan mengedukasi pengunjung tentang pentingnya menanam pohon mangrove serta mengajak masyarakat untuk berdonasi dan ikut beraksi menjaga bumi.
 
 ---
 
-## 🧩 Struktur Proyek
+## Struktur Proyek
 
-📁 project-folder
-│
-├── index.html → File utama (struktur website)
-├── style.css → File CSS eksternal (seluruh styling)
-└── README.md → Dokumentasi & prompt AI
+project-folder
+1. index.html → File utama (struktur website)
+2. style.css → File CSS eksternal (seluruh styling)
+3. README.md → Dokumentasi & prompt AI
 
 
 ---
 
-## 🎨 Desain dan Gaya
+## Desain dan Gaya
 
 Website ini dirancang dengan gaya **modern, elegan, dan natural** menggunakan:
 - **Gradasi warna hijau & mint** untuk nuansa alami.
@@ -29,7 +28,7 @@ Tema warna dan tipografi dipilih agar menggambarkan semangat **pelestarian lingk
 
 ---
 
-## ⚙️ Fitur dan Section
+## Fitur dan Section
 
 Website terdiri atas enam bagian utama sesuai ketentuan tugas:
 
