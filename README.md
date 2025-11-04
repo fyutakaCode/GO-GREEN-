@@ -58,7 +58,7 @@ Website ini dikembangkan dengan bantuan **ChatGPT (model GPT-5)**
 ## Pembuat
 
 **Nama:** _M. YUSRIL AFIF_ 
-**Kelas:** _Kelompok 4_  
+**Kelompok:** _Kelompok 4_  
 **Tugas:** Proyek Desain Web – Tema “Go Green”  
 **Tahun:** 2025  
 
